@@ -1,10 +1,34 @@
+# Prerequisites
+*.d
 
-*.exe
-*.stash
+# Compiled Object files
+*.slo
+*.lo
 *.o
-build-C_2_1-Desktop_Qt_5_12_6_MinGW_32_bit-Debug/Makefile
-*.Debug
-*.Release
-*.user
-*.user
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.stash
 *.user
